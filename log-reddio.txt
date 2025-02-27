@@ -1022,3 +1022,127 @@ Error:
 [10:11:09 | 26-02-2025] Bridge Task successful for 0x0C52ae7bEAE1773F598F51759AB0F01eD6C6BBd2
 [10:11:13 | 26-02-2025] Transfer Task failed for 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3: Request failed with status code 400
 [10:11:16 | 26-02-2025] Bridge Task failed for 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3: Request failed with status code 400
+Error:
+[09:50:38 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x9816d206d1e18995b59e8d4efc8b7aef5f8b661fc3411ab453cc3492b45194c7
+[09:50:52 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x611eabc9dc76497b0ff96aa511d281453d552e5d28e98d63fa2aeed577ff9aa2
+[09:51:04 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x600634ac2cef166c16e7881e0529035361ae21f9570982c3a5ecba2fa87ffda4
+Error:
+[09:51:29 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0xe971755401b8a580a94037d7e48f2966bb2271478a958411890d6d0fb1f4ac6c
+[09:51:44 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x7804d6f5fe9c32d216d459678fd6506aa329d734297d961d365c03d211f34cbd
+[09:52:00 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x62e6f15530e7bfb2e33f11215ba5a2220514b971945abd24a91a16fcd27ca813
+[09:52:11 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x4ea6078b45554a4f714f8a672e0d73201740c9192ff2327c179410cc62e2833b
+[09:52:27 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x98f8cfb42011b5efc034e69a397465ff74dfdfab8c681ebe844950e90f26dcd4
+[09:52:38 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x926aae84068acdd59b28fed55de541b0a2a394a5305d5a65412692e1ca8e04aa
+[09:52:49 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x3341e2fa7df679d37844058296119e521054b0aa02d548df381cfb24ae3d7f73
+[09:53:00 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0xe182b15de3dceb7b832e2f33eb86847ab7304d0c962ad9cdbe73220be92f9a4d
+[09:53:16 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x13dd9752483af8a37c813ef6d0f33c30265f0c5eb024eee82d582bb54d05cd74
+[09:53:27 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0xfba6bba5855a39ae9995f755d4553d477ab692d97898c4fd07c21524e4eb5c2c
+[09:53:51 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x9ecbb6f83550cd198037db6d2a859698cc4c835096c1f51fc2cd015281f59bc5
+[09:54:04 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x197d81c099d0cd6fdc407e3111eb72dbafb007d98ff0da80ef9383667d0d4513
+[09:54:16 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x1099e0f473fe026617ce58ed0d4f4aa78aa0d62fc9939f559163fb0a56573fb2
+[09:54:31 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0xde961fd84c825030a78631471ba035a9b227b1dc16f6ca24b95f62d9f46ce8d3
+[09:54:52 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x4a8b6766bd3237f3e2098115781db00764ede893a1e9780729115cc06c3d0f7d
+[09:55:02 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x59647cb88ab80c88eb106cb1ddd69ae3fd268fb8c07298b489100d42f9e3257a
+[09:55:14 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x7413923aa149586bd03589de1a4f4326278cfe42549e1b5bd3eb292b8b24a585
+[09:55:27 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x145a55af91cff1ff709061df64e805ab180af9fa8209f17e1e0337001a20ca34
+[09:55:51 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x1c2dfa6e61cc6726a4702bce0b175c4578abf3a05f77d1753289f6614ec9de04
+[09:56:00 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x0a71a88d11787d7cef4e8706f46cbcd81997cd4f8410b32479efd0c85768327f
+[09:56:12 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x51e7571904a41bef030db6f901999a54554cdcbb14ef1528dbf15bf83cbbbd60
+[09:56:23 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x08b7d6419f17c3b404c74184b6f7402dc7a23db900c5ea91f0d157c0c4e4a954
+[09:57:04 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x6a171c853f48f889fa013d697c21f5719b2b4d82bed234e069b6ad080ded521e
+Error:
+[09:57:25 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x23d84f35608ce35e1fbbb4d82439497d3f4a76ae430a75150eab66ebf2456588
+[09:57:33 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x866701a48e000b9f72193fa7475afb65c0553cbc5d01be485af7d990a9a2e19e
+[09:57:49 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x947cfe48a97a884ead05b5617173aed1404afec5fe936fc554d9b3906af23aac
+[09:58:07 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0xb7c75c3f4d7d4a57e88fc0fde88b24b97e70a4ed715a73d015022af9397a4428
+[09:58:14 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0xdb74cd5035e89e524be2c57d2ee02760f05f89cd18d42480b70df3bcb24cd6f8
+[09:58:25 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0xb81ad49c729a8c8ba67a175452e48884cc10533d5a79eadb40d043130fdc3e71
+[09:58:49 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x35a6146bf3dfef61cad74116a7175f01736ae6e50f6607eca6a6fdbd3297fab6
+[09:58:59 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x23bbbf08196d78cd2b5c27dcf410ffc1cf5dce9502a1737a94d13536747758f6
+[09:59:15 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x542f7b47993bd70126ef78aa55a67ab9f87ff9a3ea319064824d92ab50692611
+[09:59:25 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0xab3380d5aa28f212453592f38528ef0375115fdbe9109201a84c1bf8f6f44eb2
+[09:59:49 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x779b8ee1f7768943ffed4c188ef970bbb5da96411d3d87b07f26b475fc161d40
+[10:00:02 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0xd099614812f32bd25976c95091946d48c0ea6363fbfe7af2e54af65839d63d81
+[10:00:14 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x9aa2f0760185d30027b99c3e7dce775fa594a4cc3adcacc4806b5f77b845c1db
+[10:00:25 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0xb973fdc64c9acf2f0b2f91734a66b1fa0ca282dd0be12faefbbd471162c58eaa
+[10:00:37 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x690295572d89594c7f23842d754a5bc266951dfbfbf8ae0a9e693af4eddf8e34
+[10:00:48 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x0ee9779aab8f83f0616b4258822d1ba845d53c6362fc83425522747e674e663c
+[10:01:00 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x8327a42aa21f510d093bbee267ac555bce4dee303eb444ca5b9f1ef91f6a64c6
+[10:01:15 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x05734affdaae715e58d5f79e17379d928a9bb14789736c71feef8ec30bd91946
+[10:01:27 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0xb5c3098a37a9c03947a495c389cb1021701d12948ee3b02b417a22f200b49dad
+[10:01:37 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x9a955eace4651bdeb9c7ecb23b8e36f0aabe39bab114afd6184f7ed2798ed79a
+[10:01:49 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x37e685ca2b5558dbf4319c9ceecc871be89c75f288d4829130b2448784f55a5b
+[10:02:07 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x6960e1fce7e24cdfcd8eac7580a07713583636f26025ac7e8c598c014019a80d
+[10:02:27 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x9b87cdf0cb8f9c7cea6ea0ff0f1f531a9779f2fa6f9a13bc6d1426e883056812
+[10:02:35 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x397d9864b608e57d393bafed73d07159ee4fef922a28ea3a2ac8bf380e63ec12
+[10:02:51 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0xd9a4b5540c5f6df0f0fa576fd16d894f836713ea621fce223f27b36ca78568a4
+[10:03:08 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x8044452f267571635dd40ac4607d0089082bf8305229ab86fa84073ba901b8e6
+[10:03:28 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x1a02e27a13f5692ff3d5f456bded2a8d38b1a40196951e625af4a02cd7f7f94e
+[10:03:38 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x8f23fbe7efb8ea932bd16ed8ff206b0bc4b8ac82acccf824ba52e0168fce36b8
+[10:03:50 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x19f1fb8e28bb67c29d4d0292ccd414b69e9fc4bcf0df2c2b47b571617074af97
+[10:04:09 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x48976911810ff9ca1d919f12341413e9de65ee418b51ab6f580a39da891b7b08
+[10:04:38 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x42a7194c75589d2b8bfdca9531c669934b23cdea01f50a76d7369325601cc135
+[10:04:48 | 27-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x1b8e5916233b9f463de483b5bf0808dbdacf52c6e8441a90d19c21f749a7e63f
+[10:05:04 | 27-02-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x116d2c4e96bdefb11af6a2ecf0edad36f50d9e5291f0b4b15dbadeb376fa1f43
+[10:08:07 | 27-02-2025] Transfer Task successful for 0xd082fd42Ba031EE93E5bbE44dB6737B91f7A7dD4
+[10:08:11 | 27-02-2025] Bridge Task successful for 0xd082fd42Ba031EE93E5bbE44dB6737B91f7A7dD4
+[10:08:13 | 27-02-2025] Transfer Task successful for 0x394898332f3cA250EF32AbbCEf528BCbA4998004
+[10:08:17 | 27-02-2025] Bridge Task successful for 0x394898332f3cA250EF32AbbCEf528BCbA4998004
+[10:08:20 | 27-02-2025] Transfer Task successful for 0x13c7fc6fFd8383E8870356C40AE46B936D4F7A54
+[10:08:23 | 27-02-2025] Bridge Task successful for 0x13c7fc6fFd8383E8870356C40AE46B936D4F7A54
+[10:08:26 | 27-02-2025] Transfer Task successful for 0xb16691f487a39Ec7239b7506885bf553Bc7Ce78e
+[10:08:29 | 27-02-2025] Bridge Task successful for 0xb16691f487a39Ec7239b7506885bf553Bc7Ce78e
+[10:08:32 | 27-02-2025] Transfer Task successful for 0x846516Cf0D081d1204AA2Cf7a55180da3dEd3839
+[10:08:35 | 27-02-2025] Bridge Task successful for 0x846516Cf0D081d1204AA2Cf7a55180da3dEd3839
+[10:08:38 | 27-02-2025] Transfer Task successful for 0xD22522e5AB993E3EaEC98d83b1131Ad5418E218C
+[10:08:41 | 27-02-2025] Bridge Task successful for 0xD22522e5AB993E3EaEC98d83b1131Ad5418E218C
+[10:08:44 | 27-02-2025] Transfer Task successful for 0x061408a3A8a11BFF9bE8aB02601ACdddd389E439
+[10:08:47 | 27-02-2025] Bridge Task successful for 0x061408a3A8a11BFF9bE8aB02601ACdddd389E439
+[10:08:50 | 27-02-2025] Transfer Task successful for 0xa46e0AB0310De849837840174a7452Bd159fe148
+[10:08:53 | 27-02-2025] Bridge Task successful for 0xa46e0AB0310De849837840174a7452Bd159fe148
+[10:08:56 | 27-02-2025] Transfer Task successful for 0x109EcCbBc3E04727F74CCFF611152203277777eD
+[10:08:59 | 27-02-2025] Bridge Task successful for 0x109EcCbBc3E04727F74CCFF611152203277777eD
+[10:09:02 | 27-02-2025] Transfer Task successful for 0x85EC28203bc7e2178204536c79C4521a4c885231
+[10:09:05 | 27-02-2025] Bridge Task successful for 0x85EC28203bc7e2178204536c79C4521a4c885231
+[10:09:08 | 27-02-2025] Transfer Task successful for 0xA49Be7Cc6f4A8c3148E5CCB21E3aF8A6358a34E1
+[10:09:11 | 27-02-2025] Bridge Task successful for 0xA49Be7Cc6f4A8c3148E5CCB21E3aF8A6358a34E1
+[10:09:14 | 27-02-2025] Transfer Task successful for 0x98fb16257FD87481Eb3Aed0121842907cDb40438
+[10:09:17 | 27-02-2025] Bridge Task successful for 0x98fb16257FD87481Eb3Aed0121842907cDb40438
+[10:09:20 | 27-02-2025] Transfer Task successful for 0xB40042665d9c17A380Fe58f568618787cA54E44b
+[10:09:23 | 27-02-2025] Bridge Task successful for 0xB40042665d9c17A380Fe58f568618787cA54E44b
+[10:09:26 | 27-02-2025] Transfer Task successful for 0x9163158550158040655f0736cF5B5Fe208b114e0
+[10:09:29 | 27-02-2025] Bridge Task successful for 0x9163158550158040655f0736cF5B5Fe208b114e0
+[10:09:32 | 27-02-2025] Transfer Task successful for 0x07867be50ED1A1Fd0a23D296e69883d0a0952D0c
+[10:09:35 | 27-02-2025] Bridge Task successful for 0x07867be50ED1A1Fd0a23D296e69883d0a0952D0c
+[10:09:38 | 27-02-2025] Transfer Task successful for 0xfD307FdB323EAf74a5af2176324d5616D1f76fF4
+[10:09:41 | 27-02-2025] Bridge Task successful for 0xfD307FdB323EAf74a5af2176324d5616D1f76fF4
+[10:09:44 | 27-02-2025] Transfer Task successful for 0x0f18140FC0E036698c127c20cDe7C05161EDedA0
+[10:09:47 | 27-02-2025] Bridge Task successful for 0x0f18140FC0E036698c127c20cDe7C05161EDedA0
+[10:09:50 | 27-02-2025] Transfer Task successful for 0xA4C94713F8B4D91ff76aEb625281F844bd5F758D
+[10:09:53 | 27-02-2025] Bridge Task successful for 0xA4C94713F8B4D91ff76aEb625281F844bd5F758D
+[10:09:56 | 27-02-2025] Transfer Task successful for 0xF33263E24497De51995BB047aE1e999FC67319c0
+[10:09:59 | 27-02-2025] Bridge Task successful for 0xF33263E24497De51995BB047aE1e999FC67319c0
+[10:10:02 | 27-02-2025] Transfer Task successful for 0x59a64290685e90706389f8e22399dF11d4F23819
+[10:10:05 | 27-02-2025] Bridge Task successful for 0x59a64290685e90706389f8e22399dF11d4F23819
+[10:10:08 | 27-02-2025] Transfer Task successful for 0xf3A614B5EBD9c50C145e8669c4DE9D59AeD6dD39
+[10:10:11 | 27-02-2025] Bridge Task successful for 0xf3A614B5EBD9c50C145e8669c4DE9D59AeD6dD39
+[10:10:14 | 27-02-2025] Transfer Task successful for 0x45bc34B164b41953b36DD7405B596ae80b6EaabC
+[10:10:17 | 27-02-2025] Bridge Task successful for 0x45bc34B164b41953b36DD7405B596ae80b6EaabC
+[10:10:20 | 27-02-2025] Transfer Task successful for 0xc8EE458A0E4e97E44F6cFF4d4244f0c430FD7f62
+[10:10:23 | 27-02-2025] Bridge Task successful for 0xc8EE458A0E4e97E44F6cFF4d4244f0c430FD7f62
+[10:10:26 | 27-02-2025] Transfer Task successful for 0x2B792eEfF90F15BeF0d8eE06CE71C3DBCabD696A
+[10:10:29 | 27-02-2025] Bridge Task successful for 0x2B792eEfF90F15BeF0d8eE06CE71C3DBCabD696A
+[10:10:32 | 27-02-2025] Transfer Task successful for 0xC9fD9A59E2Fe9D83a3d11258A552945CC679748d
+[10:10:35 | 27-02-2025] Bridge Task successful for 0xC9fD9A59E2Fe9D83a3d11258A552945CC679748d
+[10:10:37 | 27-02-2025] Transfer Task successful for 0x409148BD0709047c2c454d11B112cC70fe17E01E
+[10:10:40 | 27-02-2025] Bridge Task successful for 0x409148BD0709047c2c454d11B112cC70fe17E01E
+[10:10:43 | 27-02-2025] Transfer Task successful for 0x9265Ec11A255338eBDe7416303328b1Ac3D08d55
+[10:10:46 | 27-02-2025] Bridge Task successful for 0x9265Ec11A255338eBDe7416303328b1Ac3D08d55
+[10:10:50 | 27-02-2025] Transfer Task successful for 0x70727Ee60c8f2Ba0608E008061D094696D723fD5
+[10:10:53 | 27-02-2025] Bridge Task successful for 0x70727Ee60c8f2Ba0608E008061D094696D723fD5
+[10:10:56 | 27-02-2025] Transfer Task successful for 0x27e102D33145118394bA8BA0123fD169919B30Db
+[10:10:59 | 27-02-2025] Bridge Task successful for 0x27e102D33145118394bA8BA0123fD169919B30Db
+[10:11:02 | 27-02-2025] Transfer Task successful for 0x0C52ae7bEAE1773F598F51759AB0F01eD6C6BBd2
+[10:11:05 | 27-02-2025] Bridge Task successful for 0x0C52ae7bEAE1773F598F51759AB0F01eD6C6BBd2
+[10:11:08 | 27-02-2025] Transfer Task failed for 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3: Request failed with status code 400
+[10:11:11 | 27-02-2025] Bridge Task failed for 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3: Request failed with status code 400
