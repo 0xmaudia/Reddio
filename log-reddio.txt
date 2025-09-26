@@ -28214,3 +28214,131 @@ Error:
 [10:15:59 | 25-09-2025] Bridge Task failed for 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3: Request failed with status code 400
 [10:16:01 | 25-09-2025] Transfer Task failed for 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3: Request failed with status code 400
 [10:16:04 | 25-09-2025] Bridge Task failed for 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3: Request failed with status code 400
+[09:57:44 | 26-09-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0xc1c442e442f0722f18e73729c2321bc535a3af3bcdaea06a3441854703d668cb
+Error:
+Error:
+[09:58:03 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x358131b4ff6a96e876607388f68364f9218b15121eb3ed80e28a2441cbe034d9
+Error:
+[09:58:16 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0xb104a2939eec8011a2d5de5afc3f05824bf45c34b1687fbb6564c282f6c9214f
+Error:
+[09:58:37 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x002c92d929e3a3230f9f99541357d584c9e1968873af4f425a7eef8198aacd02
+Error:
+[09:58:50 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x686f9c7d53e0762fc5fb225bed63eb7f46a6fc128fd843ca128422804f81c774
+Error:
+[09:59:02 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0xb9260efa4b0688adfef6a41571a083c9b75f5aa3f61d95ad271cd13544810255
+Error:
+[09:59:14 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x653b4d53c6f321f9703b09d4e22cca6025d638657a295632add6770708a40fcd
+Error:
+[09:59:27 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0xaf3618333e2f210fd22ee34a4c443dbcd2ba54e296328f71d9f93be05cde14ca
+Error:
+[09:59:51 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0xaaaa26beaaa940c4382fb22e43348297607c395e188d739393914efaa9b1e93e
+Error:
+[10:00:03 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0xc3245ad565a3ce68161916a0a8843514e7940d0e4beca020e44f3d7628bdd64a
+Error:
+[10:00:25 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x482d80746a4c6e14ba02ff55298c14a7520af6671c8e1b162aba1e8e002c24f6
+Error:
+[10:00:39 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0xaadd146845d44f181bc729cd3661013493b539313547839bb0f10bd16277cff5
+Error:
+[10:00:51 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0xa8e81eb4973d8f686a91645b81a8ae04f9d50c6f342733608800af1f19190e13
+Error:
+[10:01:04 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0xaee869dbcb50eb9b38a3b21409e1f75c9aec61f18be2255c9766262ac4b50d60
+Error:
+Error:
+Error:
+[10:01:28 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0xf4b13acb775ba712d6faf90f0f663f6a3913aca02044e16bc3777bb18da5f08f
+Error:
+[10:01:49 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x22178ea5fe74d44cc27f203584723bb3fbb73bfcf9cd61f11958087578220208
+Error:
+[10:02:01 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0xc93f1ff5832b55b09a7c78296db5ba4fca75adacc93efa9c8e4c37ebe8fbc0dd
+Error:
+[10:02:13 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0xb07268fbf4737f7b137ca35d8257872a445d5bbc47c3a462c7660bb8b6a13c09
+Error:
+[10:02:26 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x245adab2523c76895a094ae0a3ec95c35a2b4308be4b4b41702539d754fab775
+Error:
+[10:02:52 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x6226457a394293c698336a87623ab30b14eb893e45523fcbe95e4e522cb75216
+Error:
+[10:03:04 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x0618704dcfdb4b8bedb592d242bf3607eef2c988cf8a060762b8c3a20b2040c9
+Error:
+[10:03:25 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0xb203225e3a34cad89291f5ac977a4ae1c09135ef487a38508650294a1ed7f3f7
+Error:
+[10:03:38 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0xbb891aa4a6b9a306271760f9c1e23bfc83ddac266519c1f0d8b6ee43505fbff0
+Error:
+[10:03:51 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x5a9e1709fc2a975d06c50c20a59fe0c47ff40d0d671dfeab78d3ab343e2c5127
+Error:
+[10:04:15 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x807411702838c73c2b457302ebc0530bf07eb73278a2b205562b206775b7b6bc
+Error:
+[10:04:40 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x024f4186778d2e3f5145b62cc9a71f75942211ad28397b520e191e70975f662c
+Error:
+[10:05:01 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x4fae92d187d58dd85ca8862b1205e39fdbb8313a3102bc86e64004066e20501a
+Error:
+[10:05:14 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0xe73e13aeb2d21dfdf74ad530ea4696f0e537b21df0f1d584a02e2f52283e8518
+[10:05:42 | 26-09-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x80fde2236c15ea8b63bad03b49e89dd8b2cd7865087d8a77293deb253712c92c
+[10:05:50 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0xac1ceb42bf905e7ec7f5bb4b0c39ed40ef1a140ad7a6da53526113e433fa1781
+[10:06:42 | 26-09-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0xe3e183472ca27f0ddd75fd0638dbbb17136bc8982d8bc2a6ccac331f643f06a5
+[10:07:02 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x18f9bf4d577ca3c14de8f95f7cc4bd0c776fbd214e50b121355ba12af09ea477
+[10:07:14 | 26-09-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x47a55cc8af6126c0d86538b1a804d325fc81ebe5304e4a1e98e3f9ef82ce17b5
+[10:07:27 | 26-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x7c4d12b052995a7de24ecd99dc1ca6da7e46e9ab39b9a257816ed30e07c12238
+[10:10:30 | 26-09-2025] Transfer Task failed for 0xd082fd42Ba031EE93E5bbE44dB6737B91f7A7dD4: Request failed with status code 400
+[10:10:33 | 26-09-2025] Bridge Task failed for 0xd082fd42Ba031EE93E5bbE44dB6737B91f7A7dD4: Request failed with status code 400
+[10:10:35 | 26-09-2025] Transfer Task failed for 0x394898332f3cA250EF32AbbCEf528BCbA4998004: Request failed with status code 400
+[10:10:38 | 26-09-2025] Bridge Task failed for 0x394898332f3cA250EF32AbbCEf528BCbA4998004: Request failed with status code 400
+[10:10:41 | 26-09-2025] Transfer Task failed for 0x13c7fc6fFd8383E8870356C40AE46B936D4F7A54: Request failed with status code 400
+[10:10:44 | 26-09-2025] Bridge Task failed for 0x13c7fc6fFd8383E8870356C40AE46B936D4F7A54: Request failed with status code 400
+[10:10:47 | 26-09-2025] Transfer Task failed for 0xb16691f487a39Ec7239b7506885bf553Bc7Ce78e: Request failed with status code 400
+[10:10:49 | 26-09-2025] Bridge Task failed for 0xb16691f487a39Ec7239b7506885bf553Bc7Ce78e: Request failed with status code 400
+[10:10:52 | 26-09-2025] Transfer Task failed for 0x846516Cf0D081d1204AA2Cf7a55180da3dEd3839: Request failed with status code 400
+[10:10:55 | 26-09-2025] Bridge Task failed for 0x846516Cf0D081d1204AA2Cf7a55180da3dEd3839: Request failed with status code 400
+[10:10:58 | 26-09-2025] Transfer Task failed for 0xD22522e5AB993E3EaEC98d83b1131Ad5418E218C: Request failed with status code 400
+[10:11:01 | 26-09-2025] Bridge Task failed for 0xD22522e5AB993E3EaEC98d83b1131Ad5418E218C: Request failed with status code 400
+[10:11:03 | 26-09-2025] Transfer Task failed for 0x061408a3A8a11BFF9bE8aB02601ACdddd389E439: Request failed with status code 400
+[10:11:06 | 26-09-2025] Bridge Task failed for 0x061408a3A8a11BFF9bE8aB02601ACdddd389E439: Request failed with status code 400
+[10:11:08 | 26-09-2025] Transfer Task failed for 0xa46e0AB0310De849837840174a7452Bd159fe148: Request failed with status code 400
+[10:11:11 | 26-09-2025] Bridge Task failed for 0xa46e0AB0310De849837840174a7452Bd159fe148: Request failed with status code 400
+[10:11:14 | 26-09-2025] Transfer Task failed for 0x109EcCbBc3E04727F74CCFF611152203277777eD: Request failed with status code 400
+[10:11:17 | 26-09-2025] Bridge Task failed for 0x109EcCbBc3E04727F74CCFF611152203277777eD: Request failed with status code 400
+[10:11:19 | 26-09-2025] Transfer Task failed for 0x85EC28203bc7e2178204536c79C4521a4c885231: Request failed with status code 400
+[10:11:22 | 26-09-2025] Bridge Task failed for 0x85EC28203bc7e2178204536c79C4521a4c885231: Request failed with status code 400
+[10:11:25 | 26-09-2025] Transfer Task failed for 0xA49Be7Cc6f4A8c3148E5CCB21E3aF8A6358a34E1: Request failed with status code 400
+[10:11:27 | 26-09-2025] Bridge Task failed for 0xA49Be7Cc6f4A8c3148E5CCB21E3aF8A6358a34E1: Request failed with status code 400
+[10:11:30 | 26-09-2025] Transfer Task failed for 0x98fb16257FD87481Eb3Aed0121842907cDb40438: Request failed with status code 400
+[10:11:33 | 26-09-2025] Bridge Task failed for 0x98fb16257FD87481Eb3Aed0121842907cDb40438: Request failed with status code 400
+[10:11:35 | 26-09-2025] Transfer Task failed for 0xB40042665d9c17A380Fe58f568618787cA54E44b: Request failed with status code 400
+[10:11:38 | 26-09-2025] Bridge Task failed for 0xB40042665d9c17A380Fe58f568618787cA54E44b: Request failed with status code 400
+[10:11:40 | 26-09-2025] Transfer Task failed for 0x9163158550158040655f0736cF5B5Fe208b114e0: Request failed with status code 400
+[10:11:43 | 26-09-2025] Bridge Task failed for 0x9163158550158040655f0736cF5B5Fe208b114e0: Request failed with status code 400
+[10:11:46 | 26-09-2025] Transfer Task failed for 0x07867be50ED1A1Fd0a23D296e69883d0a0952D0c: Request failed with status code 400
+[10:11:49 | 26-09-2025] Bridge Task failed for 0x07867be50ED1A1Fd0a23D296e69883d0a0952D0c: Request failed with status code 400
+[10:11:52 | 26-09-2025] Transfer Task failed for 0xfD307FdB323EAf74a5af2176324d5616D1f76fF4: Request failed with status code 400
+[10:11:54 | 26-09-2025] Bridge Task failed for 0xfD307FdB323EAf74a5af2176324d5616D1f76fF4: Request failed with status code 400
+[10:11:57 | 26-09-2025] Transfer Task failed for 0x0f18140FC0E036698c127c20cDe7C05161EDedA0: Request failed with status code 400
+[10:12:00 | 26-09-2025] Bridge Task failed for 0x0f18140FC0E036698c127c20cDe7C05161EDedA0: Request failed with status code 400
+[10:12:02 | 26-09-2025] Transfer Task failed for 0xA4C94713F8B4D91ff76aEb625281F844bd5F758D: Request failed with status code 400
+[10:12:05 | 26-09-2025] Bridge Task failed for 0xA4C94713F8B4D91ff76aEb625281F844bd5F758D: Request failed with status code 400
+[10:12:08 | 26-09-2025] Transfer Task failed for 0xF33263E24497De51995BB047aE1e999FC67319c0: Request failed with status code 400
+[10:12:10 | 26-09-2025] Bridge Task failed for 0xF33263E24497De51995BB047aE1e999FC67319c0: Request failed with status code 400
+[10:12:13 | 26-09-2025] Transfer Task failed for 0x59a64290685e90706389f8e22399dF11d4F23819: Request failed with status code 400
+[10:12:15 | 26-09-2025] Bridge Task failed for 0x59a64290685e90706389f8e22399dF11d4F23819: Request failed with status code 400
+[10:12:18 | 26-09-2025] Transfer Task failed for 0xf3A614B5EBD9c50C145e8669c4DE9D59AeD6dD39: Request failed with status code 400
+[10:12:21 | 26-09-2025] Bridge Task failed for 0xf3A614B5EBD9c50C145e8669c4DE9D59AeD6dD39: Request failed with status code 400
+[10:12:24 | 26-09-2025] Transfer Task failed for 0x45bc34B164b41953b36DD7405B596ae80b6EaabC: Request failed with status code 400
+[10:12:27 | 26-09-2025] Bridge Task failed for 0x45bc34B164b41953b36DD7405B596ae80b6EaabC: Request failed with status code 400
+[10:12:30 | 26-09-2025] Transfer Task failed for 0xc8EE458A0E4e97E44F6cFF4d4244f0c430FD7f62: Request failed with status code 400
+[10:12:32 | 26-09-2025] Bridge Task failed for 0xc8EE458A0E4e97E44F6cFF4d4244f0c430FD7f62: Request failed with status code 400
+[10:12:35 | 26-09-2025] Transfer Task failed for 0x2B792eEfF90F15BeF0d8eE06CE71C3DBCabD696A: Request failed with status code 400
+[10:12:37 | 26-09-2025] Bridge Task failed for 0x2B792eEfF90F15BeF0d8eE06CE71C3DBCabD696A: Request failed with status code 400
+[10:12:40 | 26-09-2025] Transfer Task failed for 0xC9fD9A59E2Fe9D83a3d11258A552945CC679748d: Request failed with status code 400
+[10:12:43 | 26-09-2025] Bridge Task failed for 0xC9fD9A59E2Fe9D83a3d11258A552945CC679748d: Request failed with status code 400
+[10:12:45 | 26-09-2025] Transfer Task failed for 0x409148BD0709047c2c454d11B112cC70fe17E01E: Request failed with status code 400
+[10:12:48 | 26-09-2025] Bridge Task failed for 0x409148BD0709047c2c454d11B112cC70fe17E01E: Request failed with status code 400
+[10:12:51 | 26-09-2025] Transfer Task failed for 0x9265Ec11A255338eBDe7416303328b1Ac3D08d55: Request failed with status code 400
+[10:12:53 | 26-09-2025] Bridge Task failed for 0x9265Ec11A255338eBDe7416303328b1Ac3D08d55: Request failed with status code 400
+[10:12:56 | 26-09-2025] Transfer Task failed for 0x70727Ee60c8f2Ba0608E008061D094696D723fD5: Request failed with status code 400
+[10:12:59 | 26-09-2025] Bridge Task failed for 0x70727Ee60c8f2Ba0608E008061D094696D723fD5: Request failed with status code 400
+[10:13:01 | 26-09-2025] Transfer Task failed for 0x27e102D33145118394bA8BA0123fD169919B30Db: Request failed with status code 400
+[10:13:04 | 26-09-2025] Bridge Task failed for 0x27e102D33145118394bA8BA0123fD169919B30Db: Request failed with status code 400
+[10:13:06 | 26-09-2025] Transfer Task failed for 0x0C52ae7bEAE1773F598F51759AB0F01eD6C6BBd2: Request failed with status code 400
+[10:13:09 | 26-09-2025] Bridge Task failed for 0x0C52ae7bEAE1773F598F51759AB0F01eD6C6BBd2: Request failed with status code 400
+[10:13:12 | 26-09-2025] Transfer Task failed for 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3: Request failed with status code 400
+[10:13:15 | 26-09-2025] Bridge Task failed for 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3: Request failed with status code 400
+[10:13:18 | 26-09-2025] Transfer Task failed for 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3: Request failed with status code 400
+[10:13:20 | 26-09-2025] Bridge Task failed for 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3: Request failed with status code 400
